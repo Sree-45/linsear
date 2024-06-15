@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/linsaer/static/css/main.655cd081.css",
+    "main.js": "/linsaer/static/js/main.74a5b8de.js",
+    "static/js/453.bb741c20.chunk.js": "/linsaer/static/js/453.bb741c20.chunk.js",
+    "index.html": "/linsaer/index.html",
+    "main.655cd081.css.map": "/linsaer/static/css/main.655cd081.css.map",
+    "main.74a5b8de.js.map": "/linsaer/static/js/main.74a5b8de.js.map",
+    "453.bb741c20.chunk.js.map": "/linsaer/static/js/453.bb741c20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.655cd081.css",
+    "static/js/main.74a5b8de.js"
+  ]
+}
